@@ -1,0 +1,2 @@
+# Image processing using Open CV
+Experience the power of image processing with this interactive OpenCV-based application. Upload your favorite images and watch them transform right before your eyes. Convert images to grayscale to see their artistic side, detect edges to highlight intricate details, and uncover faces with advanced facial detection. Whether you're a photography enthusiast or just curious about image manipulation, this user-friendly interface makes it easy to explore the world of image processing. Try it now and discover a new perspective on your images!
